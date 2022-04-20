@@ -1,2 +1,6 @@
 hello  world!
+<<<<<<< HEAD
 hot fix branch xiugai 111
+=======
+hot fix branch xiugai 111
+>>>>>>> hot-fix
